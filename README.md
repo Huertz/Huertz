@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jose Alfredo Huerta
 ===========================================================================================================================================
 
-Psychologist Full-Stack Web Developer
+Psychologist | Full-Stack Web Developer
 -------------------------------------
 
 Recently completed 24-week intensive program focused on gaining technical programming skills in HTML, CSS, Javascript, JQuery, Bootstrap, Node, MySQL, MongoDB, Express, and ReactJS
