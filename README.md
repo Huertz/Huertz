@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Psychologist | Full-Stack Web Developer
 -------------------------------------
 
-Recently completed 24-week intensive program focused on gaining technical programming skills in HTML, CSS, Javascript, JQuery, MySQL , Node, Express, MongoDB and React
+Recently completed 24-week intensive program focused on gaining technical programming skills in HTML, CSS, Javascript, JQuery, MySQL, Node, Express, MongoDB and React
 
 *   🌍  I'm based in Texas
 *   ✉️  You can contact me at [jahuerta1995@gmail.com](mailto:jahuerta1995@gmail.com)
